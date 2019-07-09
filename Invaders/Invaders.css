@@ -1,0 +1,30 @@
+body{
+	background: black;
+	color: white;
+}
+canvas{
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	width: 410px;
+	height: 410px;
+	border: 1px solid #fff;
+	transition: 1s;
+}
+#bonustxt{
+	position: absolute;
+	right: 5%;
+	background-color: black;
+	color: white;
+	width: 400px;
+	height: 900px;
+	border: 1px solid black;
+	font-size: 20px;
+}
+/*canvas:hover{
+	box-shadow: 0 0 15px white;
+	border-radius: 50%;
+}*/
