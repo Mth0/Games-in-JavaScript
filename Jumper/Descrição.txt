@@ -1,0 +1,3 @@
+Um jogo antigo que havia feito e decidi por aqui.
+O jogo é em javascript e consiste em um alieniginazinho
+Pulando por cima de plataformas.
